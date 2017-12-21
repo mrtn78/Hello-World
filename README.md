@@ -1,2 +1,2 @@
-# Hello-World
-Hello World exercise
+# Hello-World of Martin van der Plas
+Martin van der Plas is een ervaren architect gespecialiseerd in de ontwikkeling van complexe informatie systemen op basis van BPM, EAI & SOA. Verder is hij bedreven in Enterprise Architecture initiatieven en concepten. Martin ondersteunt momenteel KING bij de ontwikkeling van de GGI en Logius bij de ontwikkelingen rondom Digikoppeling. Hiervoor was hij architect bij het Pardex, DigiInkoop, Digipoort, eFactureren en Supd@x.
